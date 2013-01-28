@@ -18,10 +18,16 @@ I just deadbugged mine together.
 1. Adjust the pot until it takes the laser pointer to get the computer to type "n" into the text editor.
 1. Setup your powerpoint system to use "N" to advance to the next slide.
 
-_Alternate Usage_
-Change the source code to whatever key you need.
+##Alternate Usage
+Change the source code to whatever key you need, then follow above instructions.
+
+##Alternate Alternate Usage
+Write your own.
 
 ##Todo
-[]Order cable
-[]Test program
++ Order cable
++ Test program
+
+##License
+This is licensed under the use it don't steal it idea.  You didn't write it, so don't say or act like you did.  Use it if its useful, leave it if its not.
 
