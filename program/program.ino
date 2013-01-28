@@ -10,8 +10,11 @@ void setup() {
 void loop() {
 	//Start checking to see if we are moving or not
 
-	analogRead(photcell);
-
+	if ((analogRead(photcell)) > (analogRead(potentiometer))){
+		digitalWrite(led, HIGH);
+		Keyboard.print("n");
+		digitalWrite(led, low);
+	}
 	delay(350);
 
 }
