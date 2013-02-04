@@ -13,6 +13,7 @@ This is a project that uses a teensy 3.0 and a laser pointer to advance slides. 
 ##Assembly
 I just deadbugged mine together.  Here's schematic on how it should be put together.  I will not apoligize for the neatly drawn and lettered schematic.
 ![I can see clearly now, the rain is gone](schematic.png)
+Oh, there should be a resistor in front of that LED.  Oops.
 
 ##Usage
 1. Start a text editor.
