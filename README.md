@@ -11,7 +11,9 @@ This is a project that uses a teensy 3.0 and a laser pointer to advance slides. 
 + Laser pointer
 
 ##Assembly
-I just deadbugged mine together.
+I just deadbugged mine together.  Here's schematic on how it should be put together.  I will not apoligize for the neatly drawn and lettered schematic.
+![I can see clearly now, the rain is gone](schematic.png)
+Oh, there should be a resistor in front of that LED.  Oops.
 
 ##Usage
 1. Start a text editor.
@@ -22,6 +24,9 @@ _Alternate Usage_
 Change the source code to whatever key you need.
 
 ##Todo
-[]Order cable
-[]Test program
+Nothing! Hah!
+
+##License
+This is licensed under the use it don't steal it idea.  You didn't write it, so don't say or act like you did.  Use it if its useful, leave it if its not.
+>>>>>>> 9b126c8daf8dc5b10cc93307640421eab685c490
 
