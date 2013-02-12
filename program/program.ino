@@ -22,5 +22,3 @@ void loop() {
 	delay(350);
 
 }
-
-
